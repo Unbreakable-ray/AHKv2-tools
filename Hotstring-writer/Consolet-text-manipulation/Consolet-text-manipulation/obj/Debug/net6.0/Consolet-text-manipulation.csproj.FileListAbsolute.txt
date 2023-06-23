@@ -1,0 +1,15 @@
+C:\Users\max\Documents\Github_Unbreakable\AHKv2-tools\Hotstring-writer\Consolet-text-manipulation\Consolet-text-manipulation\bin\Debug\net6.0\Consolet-text-manipulation.exe
+C:\Users\max\Documents\Github_Unbreakable\AHKv2-tools\Hotstring-writer\Consolet-text-manipulation\Consolet-text-manipulation\bin\Debug\net6.0\Consolet-text-manipulation.deps.json
+C:\Users\max\Documents\Github_Unbreakable\AHKv2-tools\Hotstring-writer\Consolet-text-manipulation\Consolet-text-manipulation\bin\Debug\net6.0\Consolet-text-manipulation.runtimeconfig.json
+C:\Users\max\Documents\Github_Unbreakable\AHKv2-tools\Hotstring-writer\Consolet-text-manipulation\Consolet-text-manipulation\bin\Debug\net6.0\Consolet-text-manipulation.dll
+C:\Users\max\Documents\Github_Unbreakable\AHKv2-tools\Hotstring-writer\Consolet-text-manipulation\Consolet-text-manipulation\bin\Debug\net6.0\Consolet-text-manipulation.pdb
+C:\Users\max\Documents\Github_Unbreakable\AHKv2-tools\Hotstring-writer\Consolet-text-manipulation\Consolet-text-manipulation\obj\Debug\net6.0\Consolet-text-manipulation.csproj.AssemblyReference.cache
+C:\Users\max\Documents\Github_Unbreakable\AHKv2-tools\Hotstring-writer\Consolet-text-manipulation\Consolet-text-manipulation\obj\Debug\net6.0\Consolet-text-manipulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\max\Documents\Github_Unbreakable\AHKv2-tools\Hotstring-writer\Consolet-text-manipulation\Consolet-text-manipulation\obj\Debug\net6.0\Consolet-text-manipulation.AssemblyInfoInputs.cache
+C:\Users\max\Documents\Github_Unbreakable\AHKv2-tools\Hotstring-writer\Consolet-text-manipulation\Consolet-text-manipulation\obj\Debug\net6.0\Consolet-text-manipulation.AssemblyInfo.cs
+C:\Users\max\Documents\Github_Unbreakable\AHKv2-tools\Hotstring-writer\Consolet-text-manipulation\Consolet-text-manipulation\obj\Debug\net6.0\Consolet-text-manipulation.csproj.CoreCompileInputs.cache
+C:\Users\max\Documents\Github_Unbreakable\AHKv2-tools\Hotstring-writer\Consolet-text-manipulation\Consolet-text-manipulation\obj\Debug\net6.0\Consolet-text-manipulation.dll
+C:\Users\max\Documents\Github_Unbreakable\AHKv2-tools\Hotstring-writer\Consolet-text-manipulation\Consolet-text-manipulation\obj\Debug\net6.0\refint\Consolet-text-manipulation.dll
+C:\Users\max\Documents\Github_Unbreakable\AHKv2-tools\Hotstring-writer\Consolet-text-manipulation\Consolet-text-manipulation\obj\Debug\net6.0\Consolet-text-manipulation.pdb
+C:\Users\max\Documents\Github_Unbreakable\AHKv2-tools\Hotstring-writer\Consolet-text-manipulation\Consolet-text-manipulation\obj\Debug\net6.0\Consolet-text-manipulation.genruntimeconfig.cache
+C:\Users\max\Documents\Github_Unbreakable\AHKv2-tools\Hotstring-writer\Consolet-text-manipulation\Consolet-text-manipulation\obj\Debug\net6.0\ref\Consolet-text-manipulation.dll

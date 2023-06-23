@@ -1,0 +1,17 @@
+C:\Users\max\Documents\Github_Unbreakable\AHKv2-tools\Hotstring-writer\Hotstring writer\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\max\Documents\Github_Unbreakable\AHKv2-tools\Hotstring-writer\Hotstring writer\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\max\Documents\Github_Unbreakable\AHKv2-tools\Hotstring-writer\Hotstring writer\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\max\Documents\Github_Unbreakable\AHKv2-tools\Hotstring-writer\Hotstring writer\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\max\Documents\Github_Unbreakable\AHKv2-tools\Hotstring-writer\Hotstring writer\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\max\Documents\Github_Unbreakable\AHKv2-tools\Hotstring-writer\Hotstring writer\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\max\Documents\Github_Unbreakable\AHKv2-tools\Hotstring-writer\Hotstring writer\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\max\Documents\Github_Unbreakable\AHKv2-tools\Hotstring-writer\Hotstring writer\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\max\Documents\Github_Unbreakable\AHKv2-tools\Hotstring-writer\Hotstring writer\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\max\Documents\Github_Unbreakable\AHKv2-tools\Hotstring-writer\Hotstring writer\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\max\Documents\Github_Unbreakable\AHKv2-tools\Hotstring-writer\Hotstring writer\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\max\Documents\Github_Unbreakable\AHKv2-tools\Hotstring-writer\Hotstring writer\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\max\Documents\Github_Unbreakable\AHKv2-tools\Hotstring-writer\Hotstring writer\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\max\Documents\Github_Unbreakable\AHKv2-tools\Hotstring-writer\Hotstring writer\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\max\Documents\Github_Unbreakable\AHKv2-tools\Hotstring-writer\Hotstring writer\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\max\Documents\Github_Unbreakable\AHKv2-tools\Hotstring-writer\Hotstring writer\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\max\Documents\Github_Unbreakable\AHKv2-tools\Hotstring-writer\Hotstring writer\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
